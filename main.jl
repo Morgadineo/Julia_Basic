@@ -43,7 +43,7 @@ numero_elevado = 2^2
 if x > y
   println("$x é maior a $y")
 elseif x < y
-  println("$x é menor de $y)
+  println("$x é menor de $y")
 else
   println("$x é igual a $y")
 end
