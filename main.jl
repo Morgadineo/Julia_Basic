@@ -64,5 +64,10 @@ end
 nome_da_funcao("Arthur")
 # Output: "Olá Arthur"
   
+# Também é possivel criar funções utilizando uma única linha
+
+funcao_somar(num1, num2) = println(num1 + num2)
+funcao_somar(2, 1)
+# Output: 3
   
   
