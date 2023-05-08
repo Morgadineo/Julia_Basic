@@ -3,4 +3,6 @@
 
 Julia é uma linguagem de programação compilada no estilo JIT (just-in-time) de tipagem dinâmica feita para ter a sintaxe tão simples quanto Python porém tão rápida quanto C/C++. Julia também é uma linguagem de código aberto
 
+No arquivo main a uma breve demonstração da sintaxe básica da linguagem. Vale a pena conferir!
+
 Link para o site oficial: https://julialang.org
